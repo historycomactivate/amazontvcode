@@ -23,15 +23,6 @@ project = 'Amazon Code'
 #release = '1.0.0'
 
 
-
-html_meta = {
-    "msvalidate.01": "EC1CC2EBFA11DD5C3D82B1E823DE7278"
-   
-}
-
-
-
-
 # Add any paths that contain custom static files (such as style sheets)
 # here, relative to this directory. These files are copied after the built-in
 # static files, so a file named "default.css" will overwrite the built-in one.
