@@ -11,7 +11,7 @@ How to Use Amazon Code on TV to Activate Amazon Prime Video?
       :height: 20px
 
 .. image:: Enter_Product_Key.png
-      :width: 150px
+      :width: 200px
       :align: center
       :height: 50px
       :alt: Amazon Mytv Code 
