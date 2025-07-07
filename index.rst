@@ -1,157 +1,100 @@
 ##################
-Download & Setup IJ.Start.Canon TS3522 Printer Driver - Guide
+How to Use Amazon Code on TV to Activate Amazon Prime Video?
 ##################
 
 .. meta::
    :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
 
 .. image:: blank.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
+      :height: 20px
 
 .. image:: Enter_Product_Key.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
-      :alt: ij.start.canon
+      :height: 50px
+      :alt: Amazon Mytv Code 
       :target: #
 
 .. image:: blank.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
+      :height: 20px
 
-**********
-https://ij.start.canon TS3522
-**********
-Canon IJ printers are among the most popular printers worldwide. While many printers are available, Canon IJ stands out for its quality and versatility. Canon offers various models, including printer, scanner, and fax functionalities — making them all-in-one solutions.
+Activate Amazon Prime Video Using Amazon TV Code 
+==========================================================
 
-In this guide, we will focus on the Canon IJ Pixma TS3522 model. You'll learn about its features, how to set it up, and how to connect it with your devices.
+The URL `https://www.amazon.com/mytv` is the official page where users can enter an activation code to link their device with their Amazon Prime Video account. Whether you're using a smart TV, Roku, Fire TV, PlayStation, or Xbox, this guide will help you get started.
 
-**********
-What are the features and specifications of ij.start.canon ts3522?
-**********
-The Canon TS3522 is an all-in-one, wireless printer. Here are its key features:
+This page is for informational purposes only and is not affiliated with Amazon. All trademarks belong to their respective owners.
 
-- Built-in wireless connection.
-- Print from anywhere in your home or office.
-- Paper tray with a unique design for easy printing.
-- Borderless photo printing with sizes like 5x7 and 5x5 inches.
-- Hybrid ink system for sharp black prints.
-- Compact and easy to fit anywhere.
-- Wi-Fi connectivity without needing extra devices.
-- Settings can be managed on the printer’s LCD screen.
+What is amazon.com/mytv?
+------------------------
 
-**********
-How to set up the ij.start.canon ts3522?
-**********
+`amazon.com/mytv` is a secure activation portal provided by Amazon. When you install the Amazon Prime Video app on your smart TV or streaming device, it displays a **6-digit code**. This code must be entered at `amazon.com/mytv` to complete the sign-in process.
 
-Follow these steps:
+➡ Visit the activation page: `Amazon Mytv Code`
 
-1. Unbox the printer and remove the orange safety tape.
-2. Place the printer in a safe, flat area.
-3. Plug in the power cable.
-4. Turn the printer on using the power button.
-5. Install the included cartridges.
-6. Load A4-size paper into the tray.
+Steps to Activate Prime Video on Your Device
+--------------------------------------------
 
-**********
-How to connect ij.start.canon ts3522 with PC or Smartphone?
-**********
+1. Launch the **Amazon Prime Video** app on your device.
+2. Sign in or select "Register on the Amazon website."
+3. You will see a **6-digit activation code** on your screen.
+4. On your phone, tablet, or computer, go to:  
+   `https://www.amazon.com/mytv`
+5. Enter the code and log in with your **Amazon account**.
+6. Once verified, your device will be linked to your Prime Video account.
 
-To connect with a **computer**:
+Compatible Devices
+------------------
 
-1. Download the setup from `ij.start.canon <https://ij.start.canon>`_.
-2. Enter your model number (TS3522) and click download.
-3. Install the software and open it.
-4. Click "Start Setup".
-5. Connect the printer and PC to the same Wi-Fi.
-6. The software will detect your printer.
-7. Select the printer name, enter your Wi-Fi credentials, and connect.
+Amazon’s activation method via `amazon.com/mytv` works with a wide range of devices:
 
-To connect with a **smartphone**:
+- Smart TVs (Samsung, LG, Sony, etc.)
+- Fire TV and Fire Stick
+- Roku and Apple TV
+- Xbox One / Xbox Series X|S
+- PlayStation 4 / 5
+- Android TV boxes
+- Blu-ray players with streaming support
 
-1. Download the Canon Print app from the Play Store or App Store.
-2. Open the app and search for nearby printers.
-3. Select the printer and connect via Wi-Fi.
-4. Start printing from your phone.
+Secondary Keywords Used Naturally
+---------------------------------
 
-**********
-How to download ij.start.canon ts3522 software on laptop/computer?
-**********
+- Amazon TV activation code  
+- enter Prime Video code  
+- Amazon Prime sign-in on TV  
+- how to activate Amazon Prime on smart TV  
+- Amazon code for Prime Video login
 
-1. Open your browser on your laptop/computer.
-2. Visit `ij.start.canon <https://ij.start.canon>`_.
-3. Click **Start** → **Setting up a new printer**.
-4. If already installed, choose **Connecting to a computer or smartphone**.
-5. Follow on-screen instructions.
-6. Click the download button and install the software.
+Troubleshooting Tips
+---------------------
 
-**********
-How to install ij.start.canon ts3522 software?
-**********
+**Code not working?**  
+- Make sure your device is connected to the internet.  
+- Reopen the Prime Video app to generate a fresh code.  
 
-1. Double-click the downloaded setup file.
-2. Click **Yes** when prompted.
-3. Setup will begin automatically.
-4. Once installed, click **Start Setup**.
-5. Complete the connection to your printer.
+**Already linked to another account?**  
+- Sign out from all accounts and re-enter a new code.  
+- Use a different Amazon login if needed.
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with a computer?
-**********
+**Device not supported?**  
+- Ensure the device has an official Prime Video app and is updated.
 
-1. Open the Canon software and click **Start Setup**.
-2. Turn on your printer.
-3. Click **Next** → wait while drivers are installed.
-4. Click **Yes** to accept the license agreement.
-5. Choose **Wi-Fi Connection** → **Next**.
-6. The printer will be detected.
-7. Select your printer and complete the connection.
+Helpful Resources
+-----------------
 
-**********
-How to download and install ij.start.canon ts3522 on Apple devices?
-**********
+- Prime Video Help Center: https://www.primevideo.com/help
+- Forgot your Amazon password? https://www.amazon.com/ap/forgotpassword
+- Amazon Device Support: https://www.amazon.com/devicesupport
+- Troubleshooting Prime Video issues: https://www.amazon.com/gp/help/customer/display.html?nodeId=G69FQSKQG65W5J66
 
-1. Open the App Store.
-2. Search for **IJ Start Canon Printer** or `ij.start.canon <https://ij.start.canon>`_.
-3. Download and install the app.
-4. Open the app and connect to the printer using Wi-Fi.
+Conclusion
+----------
 
-**********
-How to install ij.start.canon ts3522 app on Smartphone?
-**********
+Using `Amazon Mytv Code` is the quickest and safest way to link your smart device with your Amazon Prime Video account. With just a few easy steps, you’ll be ready to enjoy movies, TV shows, and Amazon Originals on the big screen.
 
-1. Open Google Play Store.
-2. Search for **Canon Print**.
-3. Click **Install**.
-4. Launch the app and connect to your printer via Wi-Fi.
+*Disclaimer: This is an independent guide and is not affiliated with Amazon.com Inc. All mentioned trademarks are the property of their respective owners.*
 
-**********
-How to connect ij.start.canon ts3522 wirelessly with Smartphone?
-**********
-
-1. Open the Canon app and tap **Start Setup**.
-2. Turn on the printer.
-3. Allow installation of drivers.
-4. Agree to the license terms.
-5. Choose **Wi-Fi Connection**.
-6. Select your printer and connect.
-**********
-FAQs
-**********
-
-**Can I use photo paper to print from a Canon ij ts3522 printer?**
-**Yes.** Use 4x6 inch or 13x18 cm size photo paper.
-
-**How do I get printouts from the Canon ij printer Pixma ts3522?**
-1. Download the software.
-2. Insert A4 paper into the tray.
-3. Use the software/app to give the print command.
-
-** How does scanning work on the ij Canon ts3522 printer?**
-It’s wireless. Place the document on the scanner, give the command from the app or PC, and scanning will start.
-
-** Can I download the Canon ij printer ts3522 software on my computer?**
-**Yes.** Visit `ij.start.canon <https://ij.start.canon>`_ and follow the steps to download and install it.
