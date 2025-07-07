@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Canon Support'
+project = 'Amazon Code'
 
 
 # The full version, including alpha/beta/rc tags
