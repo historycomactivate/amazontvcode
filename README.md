@@ -1,1 +1,1 @@
-# IJ Start Canon TS3522 Printer Setup Guide
+# Amazon Mytv Code to Activate Amazon Prime 
