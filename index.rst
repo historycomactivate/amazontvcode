@@ -34,7 +34,7 @@ What is amazon.com/mytv?
 
 `amazon.com/mytv` is a secure activation portal provided by Amazon. When you install the Amazon Prime Video app on your smart TV or streaming device, it displays a **6-digit code**. This code must be entered at `amazon.com/mytv` to complete the sign-in process.
 
-➡ Visit the activation page: `Amazon Mytv Code`
+➡ Visit the activation page of `Amazon Mytv Code`
 
 Steps to Activate Prime Video on Your Device
 --------------------------------------------
